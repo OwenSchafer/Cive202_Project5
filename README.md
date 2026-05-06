@@ -8,7 +8,7 @@ The following relationships were investigated:
 This repository includes the following files:
 - [Gantt Chart](CIVE202_Spring2025_Trans-02-23_Project5_GanttChart.xlsx)
 - [Project Flowchart](CIVE202_Spring2025_Trans-02-23_Project5_FlowChart.xlsx)
-- [Timesheet]()
+- [Timesheet](CIVE202_Spring2025_Trans-02-23_Project5_Timesheet.xlsx)
 
 - [Non-Technical Executive Summary](Cive_202_Spring_26_Project5_Trans_02_23_Non-Technincal_Executive_Summary.docx)
 - [Technical Executive Summary](Cive_202_Spring_26_Project5_Trans_02_23_Technincal_Executive_Summary.docx)
