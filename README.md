@@ -6,7 +6,7 @@ The following relationships were investigated:
 - Prevalence of given transportation types among different household income levels
 ## Repository Structure
 This repository includes the following files:
-- [Gantt Chart]()
+- [Gantt Chart](CIVE202_Spring2025_Trans-02-23_Project5_GanttChart.xlsx)
 - [Project Flowchart](CIVE202_Spring2025_Trans-02-23_Project5_FlowChart.xlsx)
 - [Timesheet]()
 
